@@ -56,8 +56,8 @@ const myJumpContent = (direction) => {
 
     100% {
       opacity: 0;
-      top: -150px;
-      left: ${direction === "left" ? "75px" : "-75px"};
+      top: -100px;
+      left: ${direction === "left" ? "95px" : "-95px"};
     }
   }
                  

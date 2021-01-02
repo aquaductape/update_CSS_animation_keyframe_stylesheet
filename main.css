@@ -1,31 +1,14 @@
 .container {
   position: relative;
-  margin-top: 200px;
+  margin-top: 100px;
   margin-left: 100px;
 }
 
-.FadeInBox {
+.Box {
   width: 100px;
   height: 100px;
   background-color: red;
-  opacity: 0.1;
   z-index: 2;
-  animation: myFadeIn 4000ms infinite;
-}
-
-@keyframes myFadeIn {
-  0% {
-    opacity: 5%;
-  }
-  85% {
-    opacity: 100%;
-  }
-  88% {
-    opacity: 1%;
-  }
-  100% {
-    opacity: 5%;
-  }
 }
 
 .CoinJump {
