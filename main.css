@@ -4,6 +4,9 @@
   margin-left: 100px;
 }
 
+body {
+  background: blue;
+}
 .Box {
   width: 100px;
   height: 100px;
