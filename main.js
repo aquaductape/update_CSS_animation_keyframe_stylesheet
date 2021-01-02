@@ -30,7 +30,7 @@ function updateCoinAnimationDirection() {
     setTimeout(() => {
       coinEl.style.animationPlayState = "running";
     }, 1000);
-  }, 3400);
+  }, 3200);
 }
 
 const myJumpContent = (direction) => {
