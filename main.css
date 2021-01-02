@@ -5,12 +5,10 @@
 }
 
 .Box {
-  position: relative;
   width: 100px;
   height: 100px;
   background-color: red;
   background: red;
-  z-index: 2;
 }
 
 .CoinJump {
